@@ -1,0 +1,1424 @@
+fileFormatVersion: 2
+guid: b5eb06d181b355f489c76dac96efa541
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2020-2_profile_1Mat
+    second: {fileID: 2100000, guid: 8dcdd714c5e8f9d4cb3a2ba34a78974a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2020_Endcap_10Mat
+    second: {fileID: 2100000, guid: 18e6e665a1e1d6e49b31c163e0fd3fc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2020_Endcap_1Mat
+    second: {fileID: 2100000, guid: 0fcca5096629268499e2616b2bf154ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2020_Endcap_2Mat
+    second: {fileID: 2100000, guid: eef6ad9f17d38554180ff7082919a065, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2020_Endcap_3Mat
+    second: {fileID: 2100000, guid: 3b62c1bea8e0e394ca90f9e40a2d443a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2020_Endcap_4Mat
+    second: {fileID: 2100000, guid: 2afc9833015662446941d24d2d27ffe9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2020_Endcap_5Mat
+    second: {fileID: 2100000, guid: 224355c61b751394c85d151f933babdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2020_Endcap_6Mat
+    second: {fileID: 2100000, guid: 21fc4410e6d71a54fa996aa6bcc76611, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2020_Endcap_7Mat
+    second: {fileID: 2100000, guid: 1ea182e90e9bcd74987e0e38c15c66d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2020_Endcap_8Mat
+    second: {fileID: 2100000, guid: 4a2d14ac3e2e31e45a285bb476a0f57d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2020_Endcap_9Mat
+    second: {fileID: 2100000, guid: b08f45e34a585654899ad5da0b2bdb89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2020_profile_1Mat
+    second: {fileID: 2100000, guid: aac35384736f9204e9dfcd9c7be8f4f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2040-2_profile_1Mat
+    second: {fileID: 2100000, guid: d7c77e466b9ffe749a5f35a14bac1458, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2040-3L_profile_1Mat
+    second: {fileID: 2100000, guid: 1ed44f1f0c851314dbc0116a85d90f25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2040-3R_profile_1Mat
+    second: {fileID: 2100000, guid: dff7abe58fa7e4d4f9772df6cd1aa667, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24V15A_power_supply_1Mat
+    second: {fileID: 2100000, guid: d5bb3413fdc72b848b3e436a22a3c3ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2GT-pulley_1Mat
+    second: {fileID: 2100000, guid: 2ffdad03afabfbf45b924e71f27a03d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2GT-pulley_2Mat
+    second: {fileID: 2100000, guid: c596700bc8b51174fadd81cd5a8c49ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 40-42_motor_1Mat
+    second: {fileID: 2100000, guid: dbacc8bc7ebb4114995603b21010d1ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 4040-3_profile_1Mat
+    second: {fileID: 2100000, guid: 9f9ed2468a7d77847b8185fa212d2b0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 4040_profile_1Mat
+    second: {fileID: 2100000, guid: 1f2bb69fa975b084a81c0b55abd5be10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 4040_profile_2Mat
+    second: {fileID: 2100000, guid: 0be945f874406d4428e0f04da1bd00cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 42-34_motor_1Mat
+    second: {fileID: 2100000, guid: 4c0cbae12f517a64bb1eded92ea945ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 42-34_motor_2Mat
+    second: {fileID: 2100000, guid: 03fb68106a6811c4cb3c6a9dd1b8e4c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 42-34_motor_3Mat
+    second: {fileID: 2100000, guid: cefd0db08088fef4dbd6b2d37d9e57ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 624U_pillow_1Mat
+    second: {fileID: 2100000, guid: fe7688f6b57ea1d428d4a1e4391aae06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 625pillow_10Mat
+    second: {fileID: 2100000, guid: 905038f0d7f07bd4ca80e2485635ca75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 625pillow_11Mat
+    second: {fileID: 2100000, guid: a865a3e89f9e4f446ab47346de3bbe89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 625pillow_12Mat
+    second: {fileID: 2100000, guid: ba0d34209e5f045438c184718d40b1d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 625pillow_13Mat
+    second: {fileID: 2100000, guid: fbb182102f7ee1d4e85176cbffab0e6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 625pillow_14Mat
+    second: {fileID: 2100000, guid: f6feb197af7efa342ae096474591a788, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 625pillow_15Mat
+    second: {fileID: 2100000, guid: 1154a5d624406ef4aa2d844019285109, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 625pillow_16Mat
+    second: {fileID: 2100000, guid: 3e06222ed837f684ab05a91afe9c5490, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 625pillow_1Mat
+    second: {fileID: 2100000, guid: eebc8636f8dfe79438879fafb52f6c61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 625pillow_2Mat
+    second: {fileID: 2100000, guid: eb75946f232c2104a97a2e07dce13c02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 625pillow_3Mat
+    second: {fileID: 2100000, guid: e782633bb60d89142a6039518b1942f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 625pillow_4Mat
+    second: {fileID: 2100000, guid: 49a2ef7545b57a34cb2538acacc72634, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 625pillow_5Mat
+    second: {fileID: 2100000, guid: 30ee873f26b0ec8408d6a8ab4452aa61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 625pillow_6Mat
+    second: {fileID: 2100000, guid: 98472acecfcb86f44b4961fbf9a1d498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 625pillow_7Mat
+    second: {fileID: 2100000, guid: 7f8f1f61455a91e4199181666fa5887a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 625pillow_8Mat
+    second: {fileID: 2100000, guid: 949a4c05c783763459cbcf6b5838b48e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 625pillow_9Mat
+    second: {fileID: 2100000, guid: 5687134319dcf5946afa2dfb6409879a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed_level_springs_1Mat
+    second: {fileID: 2100000, guid: 06a5f057ab67df947af946e72e9a373b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed_level_springs_2Mat
+    second: {fileID: 2100000, guid: 7f6b6aa400c4d044bb1f0bf3668be879, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed_level_springs_3Mat
+    second: {fileID: 2100000, guid: 11569d3633c50ad46b1b91e07704afe9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed_level_springs_4Mat
+    second: {fileID: 2100000, guid: d2e4bab3c86bc10458d757f91de7d3e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Case_fan_1Mat
+    second: {fileID: 2100000, guid: 51a7024f8b4ef0e489cccaad1cd3db6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cold_section_fan_1Mat
+    second: {fileID: 2100000, guid: 6c5b9c3b69741b345a79b033423b00f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Control_panel_1Mat
+    second: {fileID: 2100000, guid: dc0f0adc45c04bc489fd9d9644b577fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copper_cover_1Mat
+    second: {fileID: 2100000, guid: 75a759c28f1e9694ca089c915bb8db0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copper_cover_2Mat
+    second: {fileID: 2100000, guid: 25f4e9b6437e5af4e902063cae9d2552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copper_cover_3Mat
+    second: {fileID: 2100000, guid: 87f7f10485eacd043a48b223de259962, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copper_cover_4Mat
+    second: {fileID: 2100000, guid: dc8a70782529e5d4582e1b5089449038, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: E_gear_1Mat
+    second: {fileID: 2100000, guid: 74db57c397593f847aaa94da59e0fa13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: E_housing_2_1Mat
+    second: {fileID: 2100000, guid: fb1adc26a1103f84db596f83a23481bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: E_idler_tensioner_1Mat
+    second: {fileID: 2100000, guid: da2bca67a0433e04aba9a7e05b047d8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: E_motor_bracket_1Mat
+    second: {fileID: 2100000, guid: 7629f3ece73250e4680811d3203abd4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: E_plate_1Mat
+    second: {fileID: 2100000, guid: 218ecc31a2fc8b94bbd9fd000257bb3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eccentric_column_1Mat
+    second: {fileID: 2100000, guid: e22f32a0b5e60614bb65314511f13be4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eccentric_column_2Mat
+    second: {fileID: 2100000, guid: 8de09984869d21748966ef44acf2341c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eccentric_column_3Mat
+    second: {fileID: 2100000, guid: 542b513bf4d1481439568e428e34cc61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eccentric_column_4Mat
+    second: {fileID: 2100000, guid: 327492dd5d9f49b4e8c73d23b959aa67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Extrusion_Spring_1Mat
+    second: {fileID: 2100000, guid: d5acc3db20db0b948931150e8a41006f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F688_pillow_1Mat
+    second: {fileID: 2100000, guid: 53c694f576536824aa616f28019638f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F688_pillow_2Mat
+    second: {fileID: 2100000, guid: 5e32c93a75a4b114293803ffef3d7e72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fan_cover_1Mat
+    second: {fileID: 2100000, guid: 408647a17ae017b408283735ab6dbf82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hand_Twisted_Nut_1Mat
+    second: {fileID: 2100000, guid: 92252d5e7a16568458abc8c9c1ddd3ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hand_Twisted_Nut_2Mat
+    second: {fileID: 2100000, guid: be17b64a1cd15844db56c89d661609c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hand_Twisted_Nut_3Mat
+    second: {fileID: 2100000, guid: 6df85887099fb77478e680f703e549d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hand_Twisted_Nut_4Mat
+    second: {fileID: 2100000, guid: 4d434196ea34ffd458ffbd0bd5cbd3e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Heat_block_1Mat
+    second: {fileID: 2100000, guid: de529cc2cacf8f94d9c7f684124fdce2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Heater_1Mat
+    second: {fileID: 2100000, guid: 0ae208a6e937a0745a1f2aeb28646286, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hot_bed_1Mat
+    second: {fileID: 2100000, guid: 6e0b5210e5247ef4585b9f05615c36a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hotbed_Surface_1Mat
+    second: {fileID: 2100000, guid: b45b3f07ddce290478b93c81992554d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LCD_support_1Mat
+    second: {fileID: 2100000, guid: 21ac4228774aeff46b1fc123583c71b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M2X8_Socket_Head_Screw_1Mat
+    second: {fileID: 2100000, guid: e049819f3cfcba54a90dfd2f647d69a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M2X8_Socket_Head_Screw_2Mat
+    second: {fileID: 2100000, guid: 1a5355985fc5d144e96c2f6f8e632aac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M2X8_Socket_Head_Screw_3Mat
+    second: {fileID: 2100000, guid: 4d6ea32091b7dc448a31b5302ba13f36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M2X8_Socket_Head_Screw_4Mat
+    second: {fileID: 2100000, guid: a6d423f60e8343a4ca4efabdbcbcb86c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M30_Plastic_nut_1Mat
+    second: {fileID: 2100000, guid: 63c98117c443bd845ae8a5f9898a747c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M30_Plastic_nut_2Mat
+    second: {fileID: 2100000, guid: 4aceff9f64c6b5447aafbbc58e3f6ba6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X10_Flush_Head_Screw_1Mat
+    second: {fileID: 2100000, guid: 0e9c5c40b3dbf414da56210c70bc9049, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X10_Flush_Head_Screw_2Mat
+    second: {fileID: 2100000, guid: d8d9e1e4722ef3e4891832d3bfc8ea8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X10_Flush_Head_Screw_3Mat
+    second: {fileID: 2100000, guid: 6147892675823854995244995c1648ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X10_Pan_Head_Screw_10Mat
+    second: {fileID: 2100000, guid: c3787a698aba3fa40a0ccb3f13b78ddb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X10_Pan_Head_Screw_1Mat
+    second: {fileID: 2100000, guid: 3f528e0c135d1344aa2ed04f6276a4da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X10_Pan_Head_Screw_2Mat
+    second: {fileID: 2100000, guid: 6bb3f32208e3bf64db3db77c53c54c84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X10_Pan_Head_Screw_3Mat
+    second: {fileID: 2100000, guid: 35887d2e002458c41a1b7b24e98a9cfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X10_Pan_Head_Screw_4Mat
+    second: {fileID: 2100000, guid: a73379e08b7ebeb4084860919cdb9f1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X10_Pan_Head_Screw_5Mat
+    second: {fileID: 2100000, guid: 21e1a752233372a43921614d2d0d8a3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X10_Pan_Head_Screw_6Mat
+    second: {fileID: 2100000, guid: 9b9c502337d38584687954611979fe76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X10_Pan_Head_Screw_7Mat
+    second: {fileID: 2100000, guid: 59931c12b0e9a8e45a9f093749c691eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X10_Pan_Head_Screw_8Mat
+    second: {fileID: 2100000, guid: a6cf680747156634fb95675624e84fda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X10_Pan_Head_Screw_9Mat
+    second: {fileID: 2100000, guid: 500420706e6b63e4c9019cc535643584, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X16_Pan_Head_Screw_1Mat
+    second: {fileID: 2100000, guid: 4a287bc0efb3d0d4d83f14d90139d0c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X16_Pan_Head_Screw_2Mat
+    second: {fileID: 2100000, guid: 9a8fc5248cb8eb64a915cf7ef03d6fdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X16_Pan_Head_Screw_3Mat
+    second: {fileID: 2100000, guid: 9c05c7f9193a2324d8a4fd45dd9b258d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X16_Pan_Head_Screw_4Mat
+    second: {fileID: 2100000, guid: 76fff929c702b6348a72a1dc1b7ac4b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X16_Pan_Head_Screw_5Mat
+    second: {fileID: 2100000, guid: e3258e8fdf035f346a1291ec87fa17e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X18_Socket_Head_Screw_1Mat
+    second: {fileID: 2100000, guid: b2951ca9771c5444c91ce01085d4e441, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X40-P_1Mat
+    second: {fileID: 2100000, guid: eb605adfe2e3c7b4bb15fb5a84950e53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X40-P_2Mat
+    second: {fileID: 2100000, guid: f2e915c1f7268864cabd853cb75933f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X40-P_3Mat
+    second: {fileID: 2100000, guid: 72776e77fa4ea024da352c651fc9a648, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X40-P_4Mat
+    second: {fileID: 2100000, guid: 504cb0af0bf1dd84a86c0e92b44fa39f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X6Pan_Head_Screw_10Mat
+    second: {fileID: 2100000, guid: 699d0f1cf2b7be5449dbc323e8e2b827, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X6Pan_Head_Screw_11Mat
+    second: {fileID: 2100000, guid: deb24290e740734468b75b5fafa1a972, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X6Pan_Head_Screw_12Mat
+    second: {fileID: 2100000, guid: 47a8a2fe3e9ee034c9bc2aca755ec7b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X6Pan_Head_Screw_13Mat
+    second: {fileID: 2100000, guid: 154f19ba0ca08dc41a83c447579aabc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X6Pan_Head_Screw_14Mat
+    second: {fileID: 2100000, guid: 8b502b8897e6c2045845fb375b217069, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X6Pan_Head_Screw_15Mat
+    second: {fileID: 2100000, guid: 2d2ebb328fcf64845bd5c5254a85c053, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X6Pan_Head_Screw_16Mat
+    second: {fileID: 2100000, guid: 2c2db73dbbbec07439170fece7b86674, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X6Pan_Head_Screw_17Mat
+    second: {fileID: 2100000, guid: 6bcad87767f34ef45a6022e41ecd4c40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X6Pan_Head_Screw_18Mat
+    second: {fileID: 2100000, guid: 18da399d3b1bb9345913e1b453b82351, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X6Pan_Head_Screw_1Mat
+    second: {fileID: 2100000, guid: e582bb5d3a4330f42ab88d4e31cf4634, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X6Pan_Head_Screw_2Mat
+    second: {fileID: 2100000, guid: 1bf78364ffd7110448fe54c50fe6af1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X6Pan_Head_Screw_3Mat
+    second: {fileID: 2100000, guid: 16504c9303615424da5b7b3e7686d3aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X6Pan_Head_Screw_4Mat
+    second: {fileID: 2100000, guid: 3453ddb25bf048648970acee78b0bea3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X6Pan_Head_Screw_5Mat
+    second: {fileID: 2100000, guid: 173c4c6d22bf00b44ba9a33e84a8a379, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X6Pan_Head_Screw_6Mat
+    second: {fileID: 2100000, guid: ac4279376e4bfb6489791ec11febc3d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X6Pan_Head_Screw_7Mat
+    second: {fileID: 2100000, guid: 8aee0c86b50c8714499b89d240d3e697, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X6Pan_Head_Screw_8Mat
+    second: {fileID: 2100000, guid: aa2795a0ecd32d64193e675fe5ac83a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X6Pan_Head_Screw_9Mat
+    second: {fileID: 2100000, guid: 67589508430170f4cbadbb60052c253d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X8_Pan_Head_Screw_1Mat
+    second: {fileID: 2100000, guid: 43daff28a8335564a966f0aa4bb25309, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X8_Pan_Head_Screw_2Mat
+    second: {fileID: 2100000, guid: 79c716b9f56842442a5f289ed9c71ab1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X8_Pan_Head_Screw_3Mat
+    second: {fileID: 2100000, guid: fdec533a119ab144794780b11c11374b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3X8_Pan_Head_Screw_4Mat
+    second: {fileID: 2100000, guid: eaf0019305d9e3340b210e8bc75f8b95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3_Screw_1Mat
+    second: {fileID: 2100000, guid: 38099a60f2af6b74ea03a218b438bfe9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3_Screw_2Mat
+    second: {fileID: 2100000, guid: 9c2e4bd3ed8e8a6458efd3f97c27ea3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3_Split_Washer_1Mat
+    second: {fileID: 2100000, guid: 896a60f8f1e27f3499fc6cd4974a6ed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3_Split_Washer_2Mat
+    second: {fileID: 2100000, guid: 6a62cdcf7a33a7642ad2c2653d22bff1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3_Split_Washer_3Mat
+    second: {fileID: 2100000, guid: 0c93ae737d87e2f40a3d6620c810e4bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3_Split_Washer_4Mat
+    second: {fileID: 2100000, guid: d5a6a80eb46bd784aa6f0b6cf3762fc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "M3\xD718_Flush_Head_Screw_1Mat"
+    second: {fileID: 2100000, guid: 31c10f355cfde6f408e78f6a64c3cc9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "M3\xD718_Flush_Head_Screw_2Mat"
+    second: {fileID: 2100000, guid: 1d5a985003a1d494eb3af9f9a8b78dfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X10_Socket_Head_Screw_1Mat
+    second: {fileID: 2100000, guid: b26d008b138ac4f4dbd6ada746f99517, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X10_Socket_Head_Screw_2Mat
+    second: {fileID: 2100000, guid: 3f3754f61a2d6b44f8b31746a09c0858, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X16_Pan_Head_Screw_1Mat
+    second: {fileID: 2100000, guid: f0ffb1172be18ff4bbedbfbb461bcb5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X16_Pan_Head_Screw_2Mat
+    second: {fileID: 2100000, guid: 4ac44102bb547e94395b5947179249cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X16_Pan_Head_Screw_3Mat
+    second: {fileID: 2100000, guid: b3408413ab9487e428dfe0b84844a34b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X16_Pan_Head_Screw_4Mat
+    second: {fileID: 2100000, guid: bb7e945c15caf92438351da946a66daf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X16_Screw_1Mat
+    second: {fileID: 2100000, guid: e4b32c7bfdbc4bb4b8a533597efcf796, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X16_Screw_2Mat
+    second: {fileID: 2100000, guid: ce4b6e3fb4c8fa342bd2837b9e9f7f55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X16_Screw_3Mat
+    second: {fileID: 2100000, guid: 50b16952d668ea74bb47a3cddc333f6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X16_Screw_4Mat
+    second: {fileID: 2100000, guid: 7d3647a7f3ba5394f9b7b9e4da57f0dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X18_Flush_Head_Screw_1Mat
+    second: {fileID: 2100000, guid: 910b41caaaeeb29418119892a92b7485, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X18_Flush_Head_Screw_2Mat
+    second: {fileID: 2100000, guid: a8ca73a5b2ad3274382ded8dd8549d67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X20_Socket_Head_Screw_1Mat
+    second: {fileID: 2100000, guid: 5d0e9c39ea71bf74bb129a992f2a0bc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X20_Socket_Head_Screw_2Mat
+    second: {fileID: 2100000, guid: 7c83c53c0d917f1419d72f264261fbec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X30_Flush_Head_Screw_1Mat
+    second: {fileID: 2100000, guid: 72c537b8e861df340bb0417fcf10f29c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X30_Flush_Head_Screw_2Mat
+    second: {fileID: 2100000, guid: 0d270c5f3a52e804a9d57d76f52d0ac1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X30_Flush_Head_Screw_3Mat
+    second: {fileID: 2100000, guid: ac250ec44519e2a4ba6d256aa07e9299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X30_Flush_Head_Screw_4Mat
+    second: {fileID: 2100000, guid: 314d5050b98fc334a9f0715bab1eb8ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X8_Socket_Head_Screw_1Mat
+    second: {fileID: 2100000, guid: 2a96e26df00f6b6439bfeaaefdba762d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X8_Socket_Head_Screw_2Mat
+    second: {fileID: 2100000, guid: 4e823d630588e8b4a8fed0e9694cef92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X8_Socket_Head_Screw_3Mat
+    second: {fileID: 2100000, guid: f0dd8b51a90a610478013c0ebdeeffef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X8_Socket_Head_Screw_4Mat
+    second: {fileID: 2100000, guid: 22bba99afc4cd834fbc3ff303ee82df5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X8_Socket_Head_Screw_5Mat
+    second: {fileID: 2100000, guid: 09365ea7080815a4ca01d28ab3fc3699, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X8_Socket_Head_Screw_6Mat
+    second: {fileID: 2100000, guid: 76754407277246245ae77ca579fef88e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X8_Socket_Head_Screw_7Mat
+    second: {fileID: 2100000, guid: 8398873d03ff744489fa4ebe82d56a79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4X8_Socket_Head_Screw_8Mat
+    second: {fileID: 2100000, guid: 00cf7b4dcee6e3f43b3fc993962e1643, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4_Split_Washer_1Mat
+    second: {fileID: 2100000, guid: b224eff120946934bbf067019de26e7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4_Split_Washer_2Mat
+    second: {fileID: 2100000, guid: d32c6dea308ee1045b41656fae1cf525, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4_Split_Washer_3Mat
+    second: {fileID: 2100000, guid: e80338682818cce49b339c656dba0c57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4_Split_Washer_4Mat
+    second: {fileID: 2100000, guid: 415b2df9d819f4d42a6285f35e989573, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4_Split_Washer_5Mat
+    second: {fileID: 2100000, guid: b5a5b7257b2a60949aaca4755a0aef5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4_T-Slot_Nut_1Mat
+    second: {fileID: 2100000, guid: 2ead096d13259304b85eb65e7555b9e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4_T-Slot_Nut_2Mat
+    second: {fileID: 2100000, guid: 11966841b18a3ec478f1eb13089674bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4_T-Slot_Nut_3Mat
+    second: {fileID: 2100000, guid: f82b03666106da340adb284e5afe4100, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4_T-Slot_Nut_4Mat
+    second: {fileID: 2100000, guid: 0d54633c3f08ec748827f61687f7a0e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4_T-Slot_Nut_5Mat
+    second: {fileID: 2100000, guid: 86f25ce9a3406344289781471c655cd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4_T-Slot_Nut_6Mat
+    second: {fileID: 2100000, guid: c4d1b1fe271b2004daea085fe04e1ef6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4_T-Slot_Nut_7Mat
+    second: {fileID: 2100000, guid: a9fabfa839ff22f4086e7227019fb656, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X30_Pan_Head_Screw_1Mat
+    second: {fileID: 2100000, guid: 9134f3a3f3fb3ce4fa9a9bb4e893e8a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X30_Pan_Head_Screw_2Mat
+    second: {fileID: 2100000, guid: 36a1d083c819bb8408a52fa7ee5d2c04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X30_Pan_Head_Screw_3Mat
+    second: {fileID: 2100000, guid: cd8c3045e3b529e45a7fbf62f563260d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X30_Pan_Head_Screw_4Mat
+    second: {fileID: 2100000, guid: 489634bc66e5eb246adce400fcaf906b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X30_Pan_Head_Screw_5Mat
+    second: {fileID: 2100000, guid: f2c0888440655c746b3c856a56beb453, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X30_Pan_Head_Screw_6Mat
+    second: {fileID: 2100000, guid: a876eb8c14e3d3644b6685173b744c26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X40_Pan_Head_Screw_1Mat
+    second: {fileID: 2100000, guid: 246d7a8ae8fec9044ab2d2aab1ca14ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X40_Pan_Head_Screw_2Mat
+    second: {fileID: 2100000, guid: dbad05e17f2699440a330ccca0b4db64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X45_Socket_Head_Screw_10Mat
+    second: {fileID: 2100000, guid: 9283c3296ac561a40baaaca6bf59d439, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X45_Socket_Head_Screw_11Mat
+    second: {fileID: 2100000, guid: c595bfecb1ec06b4d973d6ced0e9c1c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X45_Socket_Head_Screw_12Mat
+    second: {fileID: 2100000, guid: 72ac1c40c318eb14f89b125deb46def5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X45_Socket_Head_Screw_13Mat
+    second: {fileID: 2100000, guid: 94653437925848a4e93b409ee097148a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X45_Socket_Head_Screw_14Mat
+    second: {fileID: 2100000, guid: 454ee340d0e61fc4da417fb4e415cd37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X45_Socket_Head_Screw_1Mat
+    second: {fileID: 2100000, guid: 6d2a228ed30c39842a679d6b0bf4f852, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X45_Socket_Head_Screw_2Mat
+    second: {fileID: 2100000, guid: 4d2654b44a4db6f458d25cfb0e3a3603, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X45_Socket_Head_Screw_3Mat
+    second: {fileID: 2100000, guid: 533a34bb5300b1240974418211ae76ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X45_Socket_Head_Screw_4Mat
+    second: {fileID: 2100000, guid: fa03edb654fefb04d842c64e60ecba53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X45_Socket_Head_Screw_5Mat
+    second: {fileID: 2100000, guid: 69e7e6481cc119a4fb8bac20b047f705, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X45_Socket_Head_Screw_6Mat
+    second: {fileID: 2100000, guid: 52f2d10b938764a489f63bbb3a2be511, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X45_Socket_Head_Screw_7Mat
+    second: {fileID: 2100000, guid: f6fc385905a27604d8c05a55b2150d81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X45_Socket_Head_Screw_8Mat
+    second: {fileID: 2100000, guid: 765059e744a2680459ca6da7047749a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X45_Socket_Head_Screw_9Mat
+    second: {fileID: 2100000, guid: 075366cf87d044f409fc98b958329d49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X8Pan_Head_Screw_1Mat
+    second: {fileID: 2100000, guid: 419f8812cd452d9479188e643557113e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X8Pan_Head_Screw_2Mat
+    second: {fileID: 2100000, guid: d38e45c561e6af447bea86dcd7761031, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X8Pan_Head_Screw_3Mat
+    second: {fileID: 2100000, guid: 0bff9f78a9d9c00469b1d5f91ea2b988, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X8Pan_Head_Screw_4Mat
+    second: {fileID: 2100000, guid: c82f972b805a51a4aac210940df148ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X8Pan_Head_Screw_5Mat
+    second: {fileID: 2100000, guid: f27928e04e678264fba3e44246d37f48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5X8Pan_Head_Screw_6Mat
+    second: {fileID: 2100000, guid: fb1e0a85175006b47a9410fd1df9913b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5_Self-locking_nut_1Mat
+    second: {fileID: 2100000, guid: 24b45653a5f379048b4a9dbff90e9307, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5_Self-locking_nut_2Mat
+    second: {fileID: 2100000, guid: e7a4cba7af8800e48bcfec486fcfc470, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5_Self-locking_nut_3Mat
+    second: {fileID: 2100000, guid: 8cc129aaea2b9544c96da13350b35421, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5_Self-locking_nut_4Mat
+    second: {fileID: 2100000, guid: 79671231cc2a6384d900b9313b5b73d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5_Self-locking_nut_5Mat
+    second: {fileID: 2100000, guid: 66bd1e3a4b3a36c48b3c29ef3cd45039, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5_Self-locking_nut_6Mat
+    second: {fileID: 2100000, guid: c47da0b8500bd504493091ad43399858, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5_Self-locking_nut_7Mat
+    second: {fileID: 2100000, guid: 7ebba610ce3c1144ea6f69ab9aac214a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5_Self-locking_nut_8Mat
+    second: {fileID: 2100000, guid: 399f458834c5e6546b6a6d42744b7ebb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5_Split_Washer_1Mat
+    second: {fileID: 2100000, guid: 080d8a3ae7a117443ace664bb9394a2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5_T-Slot_Nut_1Mat
+    second: {fileID: 2100000, guid: 3627b6f287632794f9b80d6f3059cd72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5_T-Slot_Nut_2Mat
+    second: {fileID: 2100000, guid: a97b90e405e48064f8fbe58cfb2cad58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5_washer_1Mat
+    second: {fileID: 2100000, guid: 1db6898cc1368f7479c72a159bf3a3cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5_washer_2Mat
+    second: {fileID: 2100000, guid: db6a571f89971a5499d3aabde7353a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M6_Pneumatic_joint_1Mat
+    second: {fileID: 2100000, guid: 6e467e4bff9db8e478ba34a901016606, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M8X25_Pan_Head_Screw_1Mat
+    second: {fileID: 2100000, guid: eca5bbd44b931ea48be3fae79ff87842, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M8_Self-locking_nut_1Mat
+    second: {fileID: 2100000, guid: 8879acd605b32f34abab7c82c8079955, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M8_nut_1Mat
+    second: {fileID: 2100000, guid: ec5ed60c54e741845a1bef2c0b2a11a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nozzle_fan_1Mat
+    second: {fileID: 2100000, guid: ae99dd32666ec63439b3fe619b78eb3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nozzle_fan_duct_1Mat
+    second: {fileID: 2100000, guid: ec428069aa0bb434aba614ee20160ecb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nozzle_thermistor_1Mat
+    second: {fileID: 2100000, guid: 72cfdcb07e845a44a81d782abb6b0a22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pneumatic_joint_1Mat
+    second: {fileID: 2100000, guid: 304fb121607dfc642a48c82e39efdb5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Power_holder_1Mat
+    second: {fileID: 2100000, guid: 2dadd548915875e498529a09827c3872, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Radiator_1Mat
+    second: {fileID: 2100000, guid: 6b4c28f1fe4445c408f96ca23e00c09e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rollers_1Mat
+    second: {fileID: 2100000, guid: cac5069ab68fd6f48adb8bc278f059e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rollers_2Mat
+    second: {fileID: 2100000, guid: b3516cac7fff3d44fbd95278dc66e2dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rollers_3Mat
+    second: {fileID: 2100000, guid: 47f7858cebabc3e4a8716b90736698fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rollers_4Mat
+    second: {fileID: 2100000, guid: d17a9e636ab8c0b48953e92e38ac1a50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rollers_5Mat
+    second: {fileID: 2100000, guid: 34c239196b7d53c40898bf20416649a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rollers_6Mat
+    second: {fileID: 2100000, guid: f3ff949368583ea4795cdf77e572fa9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rollers_7Mat
+    second: {fileID: 2100000, guid: 429ad4c38e32e18409805723209fec50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rollers_8Mat
+    second: {fileID: 2100000, guid: c3324a19ab3c4f74289ed1ee99377da2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sheetmetal_enclosure_bottom_1Mat
+    second: {fileID: 2100000, guid: 719d0229980f32944963b65302ec82d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sheetmetal_enclosure_top_1Mat
+    second: {fileID: 2100000, guid: 19a43ac681f2e7944b3ce957ea130c53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spacers_for_rollers_1Mat
+    second: {fileID: 2100000, guid: 1263590c5dcf70d419682c3af93d396b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spacers_for_rollers_2Mat
+    second: {fileID: 2100000, guid: 72af094c5181e32429ad1d6a3a851916, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spacers_for_rollers_3Mat
+    second: {fileID: 2100000, guid: 83ee80ecaeb887744a5e94a3c0e69e4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spacers_for_rollers_4Mat
+    second: {fileID: 2100000, guid: 4151ead569fa064439ac0c8d0400070e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spacers_for_rollers_5Mat
+    second: {fileID: 2100000, guid: 6f0762f92a2b03c4bb9c1c90698c7db2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spacers_for_rollers_6Mat
+    second: {fileID: 2100000, guid: 7de4215ba1e3ff14c9a2a4b140362c49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Support_frame_1Mat
+    second: {fileID: 2100000, guid: 5434837dfe5e61a42bf91547f76edd48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Support_tube_1Mat
+    second: {fileID: 2100000, guid: 4447f06e50da30a48a985975e650d6a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: X_Adjustment_Block_1Mat
+    second: {fileID: 2100000, guid: 51a2bc1542888ac4aa78a3399589c975, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: X_belt_1Mat
+    second: {fileID: 2100000, guid: 42b34142a9e2f764fa78f6f82a2ae5aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: X_limit_switch_bracket_1Mat
+    second: {fileID: 2100000, guid: 449e49805029a2544a16a82009011bdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: X_motor_bracket_1Mat
+    second: {fileID: 2100000, guid: f2988959a3ab674478fb73a8621c3364, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Y_Adjustment_Block_1Mat
+    second: {fileID: 2100000, guid: 9105fb209052a784fad7e68a84bbf2bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Y_Motor_holder_1Mat
+    second: {fileID: 2100000, guid: 38476572a596a47478dab3a8c4619c07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Y_belt_1Mat
+    second: {fileID: 2100000, guid: 72771fb44a734504f86a26bb70e166e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Y_limit_switch_bracket_1Mat
+    second: {fileID: 2100000, guid: 095b73aaf5f0ed3459ee68a7e67f810d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Y_plate_1Mat
+    second: {fileID: 2100000, guid: e075f4f222127924dbb24a5f1f0f361c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Z_Stent_1Mat
+    second: {fileID: 2100000, guid: 21048c42b43d1bc42867d1b5e6c858c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Z_coupler_1Mat
+    second: {fileID: 2100000, guid: 64af247a47b247d46a922c74c9d95b07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Z_limit_switch_bracket_1Mat
+    second: {fileID: 2100000, guid: fb032ebceb548a346b14da737cb23ee1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Z_motor_bracket_1Mat
+    second: {fileID: 2100000, guid: 99c992100afca8c419e1ab810f278544, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Z_threaded_rod_1Mat
+    second: {fileID: 2100000, guid: 0506af47d2c97e447b587d1860de3aee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lcd_1Mat
+    second: {fileID: 2100000, guid: afb01b7adf9742049ad4d495bd6e1e96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lcd_Knob_1Mat
+    second: {fileID: 2100000, guid: fb241531cad36e146901a877c949e5f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: limit_switch_1Mat
+    second: {fileID: 2100000, guid: 8e6c33017dc98c04b8d5fdd0bd8600f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: limit_switch_2Mat
+    second: {fileID: 2100000, guid: 8c4ab73281fd7db40978a782366fbb24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: limit_switch_3Mat
+    second: {fileID: 2100000, guid: 32c32c17394fe1b40aedac5c078f9803, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nozzle_1Mat
+    second: {fileID: 2100000, guid: 66f15192c46c5fd49b9ef9924f97a3d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: power_switch_1Mat
+    second: {fileID: 2100000, guid: 1b729044918453d4191163beca36381c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: z_nut_1Mat
+    second: {fileID: 2100000, guid: 0c7609c465c22e74c9a065218538f26b, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

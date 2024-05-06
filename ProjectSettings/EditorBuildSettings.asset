@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuSimulacion.unity
+    guid: e527006fb68ebed4da6cea31cef62f19
+  - enabled: 1
+    path: Assets/Scenes/LaboratorioManufactura.unity
+    guid: 69d3b18e0e7d33a4e93ef4f50e331be1
+  - enabled: 1
+    path: Assets/Scenes/Instrucciones.unity
+    guid: 9be38967dba54ba4db3b0ec30b2034f1
+  m_configObjects: {}
