@@ -5,6 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class LabCTRL : MonoBehaviour
 {
+
+
+
+
     // Update is called once per frame
     void Update()
     {
